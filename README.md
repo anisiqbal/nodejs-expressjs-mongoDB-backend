@@ -19,7 +19,7 @@ https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expr
 # create a file at root of project folder
 > index.js (paste the code mentioned in Article)
 
-# Save the file and run following command on the terminal window
+# Start Node Server
 > node index
 
 # Create a route file in your project root
