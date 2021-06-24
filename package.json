@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-expressjs-mongodb-backend",
+  "version": "1.0.0",
+  "description": "backend apis for my cenima ticket booking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anisiqbal/nodejs-expressjs-mongoDB-backend.git"
+  },
+  "keywords": [
+    "api",
+    "restApis",
+    "nodejs"
+  ],
+  "author": "Muhammad Anis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anisiqbal/nodejs-expressjs-mongoDB-backend/issues"
+  },
+  "homepage": "https://github.com/anisiqbal/nodejs-expressjs-mongoDB-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
