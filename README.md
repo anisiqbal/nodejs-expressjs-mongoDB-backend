@@ -24,3 +24,14 @@ https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expr
 
 # Create a route file in your project root
 > api-routes.js
+
+# Our current setup requires that we restart the server each time we make changes to our files or add new ones. This can become stressful and frustrating sometimes but there is a quick fix for it.
+> npm install -g nodemon
+
+# Setting up MongoDB
+> Add a environment variable where the MongoDB folder is located = C:\Program Files\MongoDB\Server\4.4\bin
+> start MongoDB instance by running this command in CMD = mongod
+
+# install mongoose, body-parser
+> npm install mongoose (Nodejs package for modeling Mongodb)
+> npm install body-parser (Enables your app to parse data from incoming request like form data via urlencode)
