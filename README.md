@@ -33,5 +33,5 @@ https://medium.com/@dinyangetoh/how-to-build-simple-restful-api-with-nodejs-expr
 > start MongoDB instance by running this command in CMD = mongod
 
 # install mongoose, body-parser
-> npm install mongoose (Nodejs package for modeling Mongodb)
+> npm install mongoose (Nodejs package for modeling Mongodb - Collections Schema Modeling)
 > npm install body-parser (Enables your app to parse data from incoming request like form data via urlencode)
